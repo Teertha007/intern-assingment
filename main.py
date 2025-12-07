@@ -46,7 +46,7 @@ def main():
         prompt = f"Based on the following context, answer the question:\n\nContext: {context}\n\nQuestion: {query}"
         return llm.invoke(prompt)
 
-    print("\n--- AmbedkarGPT Initialized ---")
+    print("\n---Initialized ---")
     print("Ask a question based on the speech (Type 'exit' to quit):")
 
     # Interactive Loop
