@@ -57,7 +57,7 @@
 
 1. **Clone/Download the project**
    ```bash
-   cd "j:\intern assingment"
+   cd "intern assingment"
    ```
 
 2. **Create a virtual environment**
